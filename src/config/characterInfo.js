@@ -141,6 +141,11 @@ const characters = {
     rarity: 4,
     element: elements.PYRO,
   },
+  xiao: {
+    icon: "characterIcons/xiao.png",
+    rarity: 5,
+    element: elements.ANEMO,
+  },
 };
 
 export default characters;

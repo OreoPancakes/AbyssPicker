@@ -27,7 +27,7 @@ class ResultsPanel extends React.Component {
                   <CharacterButton
                     name={charName}
                     charInfo={info}
-                    onClick={() => {}}
+                    clickHandler={() => {}}
                   />
                 </div>
               </div>
