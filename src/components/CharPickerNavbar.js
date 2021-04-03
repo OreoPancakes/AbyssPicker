@@ -15,7 +15,7 @@ class CharacterPicker extends React.Component {
             className="mr-2 d-inline-block align-top"
             roundedCircle={true}
           />
-          OreoPanc4kes's Abyss Character Picker
+          OreoPancakes's Abyss Character Picker
         </Navbar.Brand>
       </Navbar>
     );

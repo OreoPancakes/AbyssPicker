@@ -146,6 +146,11 @@ const characters = {
     rarity: 5,
     element: elements.ANEMO,
   },
+  hutao: {
+    icon: "characterIcons/hutao.png",
+    rarity: 5,
+    element: elements.PYRO,
+  },
 };
 
 export default characters;
